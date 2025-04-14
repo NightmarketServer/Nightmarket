@@ -15,6 +15,9 @@
     </td>
     <td align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/github-grade-bplus.png" width="100" alt="B+ Grade" />
+    </td>
+  </tr>
+</table>
 
 ---
 ### 💬 Admin Night Market Discord
