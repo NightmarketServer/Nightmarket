@@ -1,23 +1,17 @@
-<h2 align="left">Nguyễn Thành Nam's GitHub Stats</h2>
+<h2 align="center">NIGHTMARKET's GitHub Stats</h2>
 
-<table>
-  <tr>
-    <td valign="top">
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Stars-1.0k-blue?style=flat-square&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/Total_Commits-1.0k-blue?style=flat-square&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/Total_PRs-0-blue?style=flat-square&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/Total_Issues-3-blue?style=flat-square&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/Contributed_Last_Year-3-blue?style=flat-square&labelColor=ffffff" />
+</p>
 
-      <ul>
-        <li><strong>🌟 Total Stars Earned:</strong> 104</li>
-        <li><strong>📝 Total Commits (2023):</strong> 89</li>
-        <li><strong>📦 Total PRs:</strong> 112</li>
-        <li><strong>❗ Total Issues:</strong> 3</li>
-        <li><strong>🔁 Contributed to (last year):</strong> 8</li>
-      </ul>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NIGHTMARKET&show_icons=true&theme=radical" />
+</p>
 
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/github-grade-bplus.png" width="100" alt="B+ Grade" />
-    </td>
-  </tr>
-</table>
 
 ---
 ### 💬 Admin Night Market Discord
